@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Ehov.css](url) and ![Image](src)
 <link rel="stylesheet" href="Ehov.css">
 ```
 
