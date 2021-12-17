@@ -45,7 +45,7 @@ html, body {
     font-weight: 400 !important;
 }
 .MuiButtonBase-root.variant-sidebar .MuiAccordionSummary-content {
-    font-size: 12px !important
+    font-size: 12px !important;
     color: rgb(156,84,85) !important;
     position: relative !important;
     display: inline-block !important;
