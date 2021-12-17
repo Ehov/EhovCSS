@@ -53,3 +53,16 @@ html, body {
     font-family: "Courier New", monospace !important;
     font-weight: 700 !important;
 }
+p, span, a {
+    color: rgb(156 84 85) !important;
+}
+.customListManageLink-link.jsx-2719653159 {
+    font-size: 12px !important;
+    text-decoration: none !important;
+    color: rgb(255 255 255) !important;
+    transition: all 200ms ease-out 0s !important;
+    display: flex !important;
+    -webkit-box-align: center !important;
+    align-items: center !important;
+    margin: 10px 0px 5px !important;
+}
