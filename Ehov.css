@@ -73,5 +73,5 @@ p, span, a {
     color: ##c0936e !important;
     font-size: 16px !important;
     font-family: "Courier New", monospace !important;
-    transition: all ease-out 200ms !important;
+    transition: all ease-out 200ms
 }
