@@ -19,6 +19,13 @@ html, body {
     font-family: "Courier New", monospace !important;
     font-weight: 700 !important;
 }
+
+//OBEJRZANE
+.sidebar-list-item.jsx-3357495904 > a.is-active.jsx-3357495904 span.jsx-3357495904 {
+    color: rgb(156,84,85) !important;
+    font-family: "Courier New", monospace !important;
+    font-weight: 400 !important;
+}
 .sidebar-list-item.jsx-3357495904 > a.is-active.jsx-3357495904 span.jsx-3357495904 {
     color: rgb(156,84,85) !important;
     font-family: "Courier New", monospace !important;
