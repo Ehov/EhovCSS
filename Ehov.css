@@ -20,7 +20,6 @@ html, body {
     font-weight: 700 !important;
 }
 
-//OBEJRZANE
 .sidebar-list-item.jsx-3357495904 > a.is-active.jsx-3357495904 span.jsx-3357495904 {
     color: rgb(192,147,110) !important;
     font-family: "Courier New", monospace !important;
@@ -75,7 +74,6 @@ p, span, a {
     font-family: "Courier New", monospace !important;
     transition: all ease-out 200ms
 }
-//WYCZYŚĆ FILTRY
 .clearAll-btn.jsx-957679112 {
     background-color: transparent !important;
     border: none !important;
