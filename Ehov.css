@@ -10,7 +10,7 @@ html, body {
 /* Hero Image */
 .hero-image-container {
     background-position: center !important; /* Lepsze dopasowanie obrazka */
-    background-image: url("https://i.imgur.com/7fVDdFT.jpg") !important;
+    background-image: url("") !important;
     background-size: cover !important; /* Pełne wypełnienie */
     height: 100vh; /* Pełna wysokość ekranu */
     display: flex;
