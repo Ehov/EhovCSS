@@ -2,21 +2,21 @@
 html, body {
     padding: 0 !important;
     margin: 0 !important;
-    background-color: #1a171d !important; /* Ciemny odcień pasujący do obrazka */
-    color: #f5e8c8 !important; /* Jasny kolor tekstu dla kontrastu */
-    font-family: "Roboto", sans-serif !important; /* Czytelna czcionka */
+    background-color: #87CEEB !important; /* Jasny błękit, przypominający niebo */
+    color: #ffffff !important; /* Biały tekst dla czytelności */
+    font-family: "Roboto", sans-serif !important; /* Prosta, nowoczesna czcionka */
 }
 
 /* Hero Image */
 .hero-image-container {
-    background-position: center !important; /* Lepsze dopasowanie obrazka */
-    background-image: url("https://imgur.com/7fVDdFT") !important;
+    background-position: center !important;
+    background-image: url("https://i.imgur.com/7fVDdFT.jpg") !important; /* Utrzymanie obecnego tła */
     background-size: cover !important; /* Pełne wypełnienie */
     height: 100vh; /* Pełna wysokość ekranu */
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #f5e8c8 !important;
+    color: #f0f8ff !important; /* Bardzo jasny błękit */
     text-shadow: 1px 1px 2px #000;
 }
 
@@ -24,13 +24,13 @@ html, body {
 .sidebar-group h4,
 .sidebar-premiere-header h4,
 .sidebarFilter-header h4 {
-    color: #c0936e !important;
+    color: #4682B4 !important; /* Stalowy błękit */
     font-size: 14px !important;
     text-transform: uppercase !important;
     font-weight: bold !important;
     margin-bottom: 15px !important;
     letter-spacing: 1.2px !important;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.8);
 }
 
 /* Sidebar Items */
@@ -38,23 +38,24 @@ html, body {
     display: block !important;
     padding: 10px 15px !important;
     font-size: 14px !important;
-    color: #f5e8c8 !important;
+    color: #ffffff !important; /* Biały tekst */
     font-family: "Courier New", monospace !important;
     text-decoration: none !important;
     border-radius: 5px;
     transition: all 0.3s ease;
+    background-color: rgba(70, 130, 180, 0.7); /* Przezroczysty błękit */
 }
 
 .sidebar-list-item a:hover {
-    color: #c0936e !important;
-    background-color: rgba(255, 255, 255, 0.1) !important;
+    color: #f0f8ff !important; /* Delikatny jasny błękit */
+    background-color: rgba(255, 255, 255, 0.2) !important; /* Subtelny efekt hover */
     transform: scale(1.05);
 }
 
 /* Buttons */
 .clearAll-btn {
-    background-color: #c0936e !important;
-    color: #1a171d !important;
+    background-color: #5F9EA0 !important; /* Odcień szarozielony przypominający błękit morski */
+    color: #ffffff !important;
     font-size: 14px !important;
     padding: 8px 15px !important;
     border-radius: 5px !important;
@@ -63,13 +64,13 @@ html, body {
 }
 
 .clearAll-btn:hover {
-    background-color: #e0a877 !important;
+    background-color: #4682B4 !important; /* Stalowy błękit */
     transform: translateY(-3px);
 }
 
 /* Linki */
 a, span, p {
-    color: #c0936e !important;
+    color: #ffffff !important; /* Biały tekst */
     font-family: "Roboto", sans-serif !important;
     font-size: 14px !important;
     line-height: 1.6;
@@ -77,7 +78,7 @@ a, span, p {
 }
 
 a:hover {
-    color: #f5e8c8 !important;
+    color: #f0f8ff !important; /* Bardzo jasny błękit */
 }
 
 /* Nawigacja */
@@ -85,12 +86,12 @@ a:hover {
     padding: 12px !important;
     display: inline-block !important;
     text-decoration: none !important;
-    color: #c0936e !important;
+    color: #ffffff !important; /* Biały tekst */
     font-size: 16px !important;
     transition: all 0.3s ease;
 }
 
 .navigation-list-item a:hover {
-    color: #f5e8c8 !important;
-    background-color: rgba(0, 0, 0, 0.2);
+    color: #87CEEB !important; /* Jasny błękit */
+    background-color: rgba(0, 0, 0, 0.1); /* Subtelne ciemniejsze tło */
 }
